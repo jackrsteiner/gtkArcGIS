@@ -1,0 +1,12 @@
+<PAMDataset>
+  <SRS>PROJCS["Albers_Conical_Equal_Area",GEOGCS["GCS_North_American_1983_HARN",DATUM["D_North_American_1983_HARN",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Albers"],PARAMETER["false_easting",400000.0],PARAMETER["false_northing",0.0],PARAMETER["central_meridian",-84.0],PARAMETER["standard_parallel_1",24.0],PARAMETER["standard_parallel_2",31.5],PARAMETER["latitude_of_origin",24.0],UNIT["Meter",1.0]]</SRS>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <Metadata domain="ESRI">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <NoDataValue>0.00000000000000E+000</NoDataValue>
+  </PAMRasterBand>
+</PAMDataset>
