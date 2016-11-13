@@ -1,0 +1,25 @@
+OBJECTID,FACIL_ID,NAME,ADDRESS,GRADE_LEVE,GRADE_ORG,ZIPCODE,TYPE,ENROLLMENT,HS_Gr,HS_Level,SHAPE_Leng,SHAPE_Area
+43,1020,West Philadelphia HS,4901 Chestnut St,High School,09-12,19139,School,1441,09-12,High School,71446.17687,107258207.2
+46,2000,South Philadelphia,2101 South Broad St,High School,09-12,19148,School,1316,09-12,High School,109950.4256,218386857.5
+48,8030,"Washington, George",10153 Bustleton Ave,High School,10-12,19116,School,2519,09-12,High School,138823.9515,596997265.4
+54,6030,Roxborough,6498 Ridge Ave,High School,09-12,19128,School,1256,09-12,High School,87030.45395,265091187.3
+62,4330,"Lamberton, Robert E.",7501 Woodbine Ave,Elem/Mid/High,K-12,19151,School,865,09-12,High School,23332.72212,26877657.4
+70,8020,Northeast High,1601 Cottman Ave,High School,09-12,19111,School,3476,09-12,High School,66002.0229,144082121.9
+83,2130,"Vaux, Roberts",2300 Masterst,High School,07-09,19121,School,387,09-12,High School,37029.99294,34408083.26
+84,1080,University City,3601 Filbert St,High School,09-12,19104,School,1867,09-12,High School,43246.2573,41559845.5
+89,2160,"Furness, Horace",1900 S 03rd St,High School,09-12,19148,School,1110,09-12,High School,72518.44459,150483777.3
+108,6060,"King, Martin Luther",6100 Stenton Ave,High School,09-12,19138,School,1692,09-12,High School,65355.43257,136424057.2
+150,2010,"Franklin, Benjamin",550 North Broad St,High School,09-12,19130,School,1153,09-12,High School,63162.25734,79127288.58
+162,6020,Germantown HS,40 E High St,High School,09-12,19144,School,1547,09-12,High School,103179.9347,296524199.8
+165,5020,"Edison, Thomas A.",151 W Luzerne St,High School,09-12,19140,School,2518,09-12,High School,25269.92247,31906202.03
+9,7010,Frankford HS,5000 Oxford Ave,High School,09-12,19124,School,2197,09-12,High School,81153.67117,200104356.2
+15,4140,Strawberry Mansion,3133 Ridge Ave,High School,09-12,19132,School,931,09-12,High School,50152.9778,97989782.47
+16,4020,Overbrook High,5898 Lancaster Ave,High School,09-12,19131,School,1934,09-12,High School,87203.0603,217027049.3
+191,8010,"Lincoln, Abraham",3201 Ryan Ave,High School,09-12,19136,School,2615,09-12,High School,80632.42244,311824583.6
+194,5510,Kensington CAPA,1901 N Front St,High School,09-12,19125,School,394,09-12,High School,72726.14679,141689442
+211,1100,"Sayre, William",5800  Walnut St,High School,09-12,19139,School,649,09-12,High School,33986.69179,34805244.96
+229,1010,"Bartram, John",2401 S 67th St,High School,09-12,19142,School,1915,09-12,High School,98576.09773,305032660
+244,7120,"Fels, Samuel",5500 Langdon St,High School,09-12,19124,School,0,09-12,High School,60230.08521,103024914.5
+543,3413,Aspira Olney Charter School,100 W Doncanon Ave,High School,09-12,19120,School,2210,09-12,High School,51473.49549,103337761.3
+545,3416,Mastery Charter School at Gratz,1798 Hunting Park Ave,High School,09-12,19140,School,1756,09-12,High School,48103.43934,68224579.35
+554,3417,Universal Audenried Charter School,Tasker St & S 33rd St,High School,09-10,19145,School,258,09-12,High School,54359.60121,75781299.55
