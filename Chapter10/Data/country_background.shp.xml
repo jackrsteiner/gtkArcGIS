@@ -1,0 +1,434 @@
+<metadata xml:lang="en"><Esri><CreaDate>20110802</CreaDate><CreaTime>01502600</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20080421</SyncDate><SyncTime>13345200</SyncTime><ModDate>20120304</ModDate><ModTime>21061500</ModTime><Sync>FALSE</Sync><ArcGISFormat>1.0</ArcGISFormat><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\MIKE-PC\C$\EsriPress\GTKArcGIS\Chapter10\Data\country_background</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="C:\Users\Mike\Documents\GTKAD10\Ch10\working\country_background" dest="\\MIKE-PC\C$\EsriPress\GTKArcGIS\Chapter10\Data\country_background" date="20110802" time="01502600"/></copyHistory></DataProperties><scaleRange><minScale>5000000</minScale><maxScale>50000</maxScale></scaleRange><ArcGISProfile>ItemDescription</ArcGISProfile></Esri><idinfo><native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420</native><descript><langdata Sync="TRUE">en</langdata><abstract>World Countries represents the boundaries for the countries of the world as they existed in January 2008.</abstract><purpose>This data is intended for use with Getting to Know ArcGIS Desktop. It may have been modified for training purposes and should not be used for analysis outside of this context.</purpose><supplinf>Largest scale when displaying the data: 1:15,000,000.</supplinf></descript><citation><citeinfo><pubdate>20100630</pubdate><title>World Countries</title><ftname Sync="TRUE">dtl_cntry.sdc</ftname><geoform Sync="TRUE">vector digital data</geoform><edition>10</edition><serinfo><sername>ESRI® Data &amp; Maps</sername><issue>10 - World, Europe, and United States</issue></serinfo><pubinfo><pubplace>Redlands, California, USA</pubplace><publish>ESRI</publish></pubinfo><othercit>Location: \world\data</othercit><origin>ESRI</origin></citeinfo></citation><timeperd><current>publication date: all dates but; ground condition: 1994</current><timeinfo><mdattim><sngdate><caldate>1996</caldate></sngdate><sngdate><caldate>1998</caldate></sngdate><sngdate><caldate>Winter 1993/1994</caldate></sngdate><sngdate><caldate>20000101</caldate></sngdate><sngdate><caldate>20000225</caldate></sngdate><sngdate><caldate>20010128</caldate></sngdate><sngdate><caldate>20000612</caldate></sngdate><sngdate><caldate>1994</caldate></sngdate><sngdate><caldate>1995-2002</caldate></sngdate><sngdate><caldate>19991001</caldate></sngdate><sngdate><caldate>20020201</caldate></sngdate><sngdate><caldate>20020520</caldate></sngdate><sngdate><caldate>20020314</caldate></sngdate><sngdate><caldate>20021115</caldate></sngdate><sngdate><caldate>2003</caldate></sngdate><sngdate><caldate>2000</caldate></sngdate><sngdate><caldate>20041209</caldate></sngdate><sngdate><caldate>20050210</caldate></sngdate><sngdate><caldate>2004</caldate></sngdate><sngdate><caldate>200405</caldate></sngdate><sngdate><caldate>200603</caldate></sngdate><sngdate><caldate>20061001</caldate></sngdate><sngdate><caldate>200703</caldate></sngdate><sngdate><caldate>20060926</caldate></sngdate><sngdate><caldate>20061003</caldate></sngdate><sngdate><caldate>200803</caldate></sngdate><sngdate><caldate>20060824</caldate></sngdate></mdattim></timeinfo></timeperd><status><progress>Complete</progress><update>Annually</update></status><spdom><bounding><westbc Sync="TRUE">-180.000000</westbc><eastbc Sync="TRUE">180.000000</eastbc><northbc Sync="TRUE">83.623600</northbc><southbc Sync="TRUE">-90.000000</southbc></bounding><lboundng><leftbc Sync="TRUE">-180.000000</leftbc><rightbc Sync="TRUE">180.000000</rightbc><bottombc Sync="TRUE">-90.000000</bottombc><topbc Sync="TRUE">83.623600</topbc></lboundng></spdom><keywords><theme><themekt>None</themekt><themekey>polygon</themekey><themekey>countries</themekey><themekey>international boundaries</themekey><themekey>coastlines</themekey><themekey>area</themekey><themekey>international codes</themekey><themekey>status</themekey><themekey>population</themekey><themekey>boundaries</themekey><themekey>society</themekey></theme><place><placekey>World</placekey><placekt>None</placekt></place><temporal><tempkt>None</tempkt><tempkey>1996</tempkey><tempkey>1998</tempkey><tempkey>1993/1994</tempkey><tempkey>2000</tempkey><tempkey>1994</tempkey><tempkey>2000</tempkey><tempkey>2001</tempkey><tempkey>2000</tempkey><tempkey>1995-2002</tempkey><tempkey>1999</tempkey><tempkey>2002</tempkey><tempkey>2002</tempkey><tempkey>2002</tempkey><tempkey>2002</tempkey><tempkey>2003</tempkey><tempkey>2000</tempkey><tempkey>2004</tempkey><tempkey>2005</tempkey><tempkey>2004</tempkey><tempkey>2004</tempkey><tempkey>2006</tempkey><tempkey>2006</tempkey><tempkey>2007</tempkey><tempkey>2006</tempkey><tempkey>2006</tempkey><tempkey>2008</tempkey><tempkey>2006</tempkey></temporal></keywords><accconst>Access granted to Licensee only.</accconst><useconst>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI® software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, “Geodata” shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s). Geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst><natvform Sync="TRUE">SDC Feature Database</natvform><ptcontac><cntinfo><cntorgp><cntorg>ESRI</cntorg><cntper>ArcGIS Content Team</cntper></cntorgp><cntaddr><addrtype>mailing and physical address</addrtype><address>380 New York Street</address><city>Redlands</city><state>California</state><postal>92373-8100</postal><country>USA</country></cntaddr><cntvoice>909-793-2853</cntvoice><cntfax>909-793-5953</cntfax><cntemail>info@esri.com</cntemail><hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours><cntinst>In the United States–
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 5:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United States–
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst></cntinfo></ptcontac><datacred>ArcWorld Supplement. ESRI Data &amp; Maps , 2010.</datacred></idinfo><metainfo><langmeta Sync="TRUE">en</langmeta><metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv><mettc Sync="TRUE">local time</mettc><metc><cntinfo><cntorgp><cntper>ArcGIS Content Team</cntper><cntorg>ESRI</cntorg></cntorgp><cntaddr><addrtype>mailing and physical address</addrtype><city>Redlands</city><state>California</state><postal>92373-8100</postal><address>380 New York Street</address><country>USA</country></cntaddr><cntvoice>909-793-2853</cntvoice><cntfax>909-793-5953</cntfax><cntemail>info@esri.com</cntemail><hours>7:00 a.m.–5:30 p.m. Pacific time, Monday–Friday</hours></cntinfo></metc><metd Sync="TRUE">20080422</metd><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo><spdoinfo><direct Sync="TRUE">Vector</direct><ptvctinf><esriterm Name="dtl_cntry"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">249</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer><featdesc>World Country</featdesc></esriterm><sdtsterm Name="dtl_cntry"><sdtstype Sync="TRUE">G-polygon</sdtstype><ptvctcnt Sync="TRUE">249</ptvctcnt></sdtsterm></ptvctinf></spdoinfo><spref><horizsys><cordsysn><geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn></cordsysn><geograph><geogunit Sync="TRUE">Decimal degrees</geogunit><latres Sync="TRUE">0.000000</latres><longres Sync="TRUE">0.000000</longres></geograph><geodetic><horizdn Sync="TRUE">D_WGS_1984</horizdn><ellips Sync="TRUE">WGS_1984</ellips><semiaxis Sync="TRUE">6378137.000000</semiaxis><denflat Sync="TRUE">298.257224</denflat></geodetic></horizsys></spref><eainfo><detailed Name="dtl_cntry"><enttyp><enttypl Sync="TRUE">dtl_cntry</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">249</enttypc><enttypd>The polygons represent the boundaries for the countries of the world as they existed in January 2008.</enttypd><enttypds>ESRI</enttypds></enttyp><attr><attrlabl Sync="TRUE">ObjectID</attrlabl><attalias Sync="TRUE">ObjectID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">FIPS_CNTRY</attrlabl><attalias Sync="TRUE">FIPS_CNTRY</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth><attrdef>The FIPS code (two-letter) for the country.</attrdef><attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs><attrdomv><codesetd><codesetn>Federal Information Processing Standards Publication 10-4</codesetn><codesets>National Institute of Standards and Technology</codesets></codesetd></attrdomv><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">GMI_CNTRY</attrlabl><attalias Sync="TRUE">GMI_CNTRY</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">3</attwidth><attrdomv><codesetd><codesetn>Global Mapping International Codes</codesetn><codesets>Global Mapping International</codesets></codesetd></attrdomv><attrdef>The country code (three-letter) for the country from Global Mapping International.</attrdef><attrdefs>Global Mapping International</attrdefs><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ISO_2DIGIT</attrlabl><attalias Sync="TRUE">ISO_2DIGIT</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth><attrdomv><codesetd><codesetn>ISO 3166-1 Alpha-2 codes</codesetn><codesets>International Organization for Standardization</codesets></codesetd></attrdomv><attrdef>The country code (two-letter) for the country from the International Organization for Standardization.</attrdef><attrdefs>International Organization for Standardization</attrdefs><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ISO_3DIGIT</attrlabl><attalias Sync="TRUE">ISO_3DIGIT</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">3</attwidth><attrdomv><codesetd><codesetn>ISO 3166-1 Alpha-3 codes</codesetn><codesets>International Organization for Standardization</codesets></codesetd></attrdomv><attrdef>The country code (three-letter) for the country from the International Organization for Standardization.</attrdef><attrdefs>International Organization for Standardization</attrdefs><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ISO_NUM</attrlabl><attalias Sync="TRUE">ISO_NUM</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">3</atprecis><attscale Sync="TRUE">0</attscale><attrdefs>International Organization for Standardization</attrdefs><attrdomv><codesetd><codesetn>ISO 3166-1 Numeric-3 codes</codesetn><codesets>International Organization for Standardization</codesets></codesetd></attrdomv><attrdef>The 3166-1-numeric-3 code for the country from the International Organization for Standardization.</attrdef></attr><attr><attrlabl Sync="TRUE">CNTRY_NAME</attrlabl><attalias Sync="TRUE">CNTRY_NAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">40</attwidth><attrdomv><udom>Names for the features.</udom></attrdomv><attrdef>The country name.</attrdef><attrdefs>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook</attrdefs><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">LONG_NAME</attrlabl><attalias Sync="TRUE">LONG_NAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">40</attwidth><attrdef>The official country name.</attrdef><attrdomv><udom>Names for the features.</udom></attrdomv><attrdefs>ArcWorld Supplement, Geographic and Global Issues, CIA Factbook</attrdefs><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ISOSHRTNAM</attrlabl><attalias Sync="TRUE">ISOSHRTNAM</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">45</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdefs>International Organization for Standardization</attrdefs><attrdomv><codesetd><codesetn>ISO 3166-1 and ISO 3166-1-alpha-2 names</codesetn><codesets>International Organization for Standardization</codesets></codesetd></attrdomv><attrdef>The short form of the country name from the International Organization for Standardization.</attrdef></attr><attr><attrlabl Sync="TRUE">UNSHRTNAM</attrlabl><attalias Sync="TRUE">UNSHRTNAM</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">55</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>The short form of the country name from the United Nations Cartographic Section.</attrdef><attrdefs>United Nations</attrdefs><attrdomv><codesetd><codesetn>United Nations Cartographic Section names</codesetn><codesets>United Nations</codesets></codesetd></attrdomv></attr><attr><attrlabl Sync="TRUE">LOCSHRTNAM</attrlabl><attalias Sync="TRUE">LOCSHRTNAM</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">43</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdefs>United States Central Intelligence Agency</attrdefs><attrdef>The local short form country name. This name is displayed using an English character set. It is blank for countries with no local short form name.</attrdef><attrdomv><udom>Names for the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">LOCLNGNAM</attrlabl><attalias Sync="TRUE">LOCLNGNAM</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">74</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdefs>United States Central Intelligence Agency</attrdefs><attrdef>The local long form country name. This name is displayed using an English character set. It is blank for countries with no local long form name.</attrdef><attrdomv><udom>Names for the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">STATUS</attrlabl><attalias Sync="TRUE">STATUS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">60</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>The United Nations political status of the political entity. This identifies whether the political entity is an independent United Nations member state, territory, occupied territory, dependency, etc.</attrdef><attrdefs>United Nations</attrdefs><attrdomv><codesetd><codesetn>United Nations Political Entity status</codesetn><codesets>United Nations</codesets></codesetd></attrdomv></attr><attr><attrlabl Sync="TRUE">POP2007</attrlabl><attalias Sync="TRUE">POP2007</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><attrdef>The 2007 midyear estimated population of the country.</attrdef><attrdefs>U.S. Census Bureau, Population Division/International Programs Center</attrdefs><attrdomv><udom>Numbers for the features.</udom></attrdomv><atprecis Sync="TRUE">11</atprecis><attscale Sync="TRUE">0</attscale><attrdomv><edom><edomv>-99999</edomv><edomvd>Unknown.</edomvd><edomvds>ESRI</edomvds></edom></attrdomv></attr><attr><attrlabl Sync="TRUE">SQKM</attrlabl><attalias Sync="TRUE">SQKM</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><attrdef>The country area in square kilometers using an equal area projection.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Calculated areas for the features.</udom></attrdomv><atprecis Sync="TRUE">13</atprecis><attscale Sync="TRUE">2</attscale></attr><attr><attrlabl Sync="TRUE">SQMI</attrlabl><attalias Sync="TRUE">SQMI</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><attrdef>The country area in square miles using an equal area projection.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Calculated areas for the features.</udom></attrdomv><atprecis Sync="TRUE">13</atprecis><attscale Sync="TRUE">2</attscale></attr><attr><attrlabl Sync="TRUE">LAND_SQKM</attrlabl><attalias Sync="TRUE">LAND_SQKM</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">8</atprecis><attscale Sync="TRUE">0</attscale><attrdef>The country area in square kilometers which is land (The World Factbook).</attrdef><attrdefs>United States Central Intelligence Agency</attrdefs><attrdomv><udom>Areas for the features.</udom></attrdomv><attrdomv><edom><edomv>-99999</edomv><edomvd>Unknown.</edomvd><edomvds>ESRI</edomvds></edom></attrdomv></attr><attr><attrlabl Sync="TRUE">COLORMAP</attrlabl><attalias Sync="TRUE">COLORMAP</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">1</atprecis><attscale Sync="TRUE">0</attscale><attrdef>The number allows the country to be shaded uniquely from its neighbors.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><rdom><rdommin>1</rdommin><rdommax>8</rdommax></rdom></attrdomv></attr></detailed></eainfo><distinfo><stdorder><digform><digtinfo><transize Sync="TRUE">1.202</transize><dssize Sync="TRUE">1.202</dssize><formname>SDC</formname><filedec>ArcGIS® software</filedec><formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec></digtinfo><digtopt><offoptn><offmedia>DVD–ROM</offmedia><reccap><recden>4.38 or 7.95</recden><recdenu>GB (gigabytes)</recdenu></reccap><recfmt>UDF (Universal Disc Format)</recfmt></offoptn></digtopt></digform><fees>Software purchase price</fees><ordering>ESRI Data &amp; Maps is available only as part of ESRI® software.</ordering></stdorder><distrib><cntinfo><cntorgp><cntorg>ESRI; ESRI Offices</cntorg></cntorgp><cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.</cntinst><cntaddr><addrtype>mailing and physical address</addrtype><address>380 New York Street</address><city>Redlands</city><state>California</state><postal>92373-8100</postal><country>USA</country></cntaddr><cntvoice>800-447-9778</cntvoice></cntinfo></distrib><techpreq>To use this data requires software that supports SDC files.</techpreq><distliab>See use constraints.</distliab><resdesc>Offline Data</resdesc></distinfo><dataqual><lineage><srcinfo><srccite><citeinfo><title>ArcWorld™ Supplement</title><origin>ESRI</origin><pubdate>1996</pubdate><edition>1</edition><geoform>vector digital data</geoform><pubinfo><publish>ESRI</publish><pubplace>Redlands, California, USA</pubplace></pubinfo></citeinfo></srccite><srcscale>3000000</srcscale><typesrc>CD–ROM</typesrc><srctime><timeinfo><sngdate><caldate>1996</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime><srccitea>ArcWorld Supplement</srccitea><srccontr>Attribute and geospatial data</srccontr></srcinfo><procstep><procdesc>The following steps were performed by ESRI for Data &amp; Maps 2002: Updated Saudi Arabia - Yemen border. Updated attributes for East Timor, Yugoslavia, Saudi Arabia, and Yemen.  Recalculated attributes based on area.  Created ArcGIS® layer file (.lyr) and ArcView GIS legend file (.avl).  Copied projection file (.prj) and created spatial indices.
+
+The following steps were performed by ESRI: Extracted the features from ESRI Data &amp; Maps 1999 data set–cntry98.shp.  Updated political boundaries and attributes for 2000 for Macau, Hong Kong, and East Timor. Extended political boundaries into the Caspian Sea and removed the shoreline.  Created ArcGIS® layer file (.lyr).  Created ArcView GIS legend file (.avl).  Created projection file (.prj).  Created spatial indices.</procdesc><procsv>ArcInfo 8, ArcView GIS 3, ArcGIS 8</procsv><srcused>ArcWorld Supplement</srcused><procdate>20020212</procdate><srcused>Geographic and Global Issues</srcused><srcused>CIA Factbook</srcused><srcused>NCGIA</srcused><srcused>ESFN FIPS 10-4 20000225</srcused><srcused>ESFN FIPS 10-4 20010128</srcused><srcused>TREATY OF JEDDAH, 2000</srcused></procstep><srcinfo><srccitea>Geographic and Global Issues</srccitea><srccontr>Attribute data</srccontr><srccite><citeinfo><origin>United States Department of State, Bureau of Intelligence and Research</origin><pubdate>Winter 1993/1994</pubdate><title>Geographic and Global Issues Quarterly</title><edition>Volume 3, Number 4</edition><serinfo><sername>Geographic and Global Issues Quarterly</sername><issue>Volume 3, Number 4</issue></serinfo><pubinfo><pubplace>Washington, DC, USA</pubplace><publish>United States Department of State, Bureau of Intelligence and Research</publish></pubinfo></citeinfo></srccite><typesrc>paper</typesrc><srctime><timeinfo><sngdate><caldate>Winter 1993/1994</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime></srcinfo><srcinfo><srccite><citeinfo><title>The World Factbook 2000; 2003; 2004; 2005; 2007; 2008</title><origin>United States Central Intelligence Agency</origin><pubdate>20000101, 2003, 20041209, 20050210, 200603, 200703, 200803</pubdate><edition>2000, 2003, 2004, 2005, 2007, 2008</edition><serinfo><sername>The World Factbook</sername><issue>2000; 2003; 2004; 2005; 2007; 2008</issue></serinfo><pubinfo><pubplace>Washington, DC, USA</pubplace><publish>United States Central Intelligence Agency</publish></pubinfo><onlink>http://www.cia.gov/cia/publications/factbook/index.html</onlink><onlink>http://www.cia.gov/cia/publications/factbook/appendix/appendix-d.html</onlink><onlink>http://www.odci.gov/cia/publications/factbook/fields/2142.html</onlink><othercit>The Factbook has been an annual publication, but selected data and maps are updated periodically online.</othercit><geoform>document</geoform></citeinfo></srccite><typesrc>online</typesrc><srctime><timeinfo><mdattim><sngdate><caldate>20000101</caldate></sngdate><sngdate><caldate>2003</caldate></sngdate><sngdate><caldate>20041209</caldate></sngdate><sngdate><caldate>20050210</caldate></sngdate><sngdate><caldate>200603</caldate></sngdate><sngdate><caldate>200703</caldate></sngdate><sngdate><caldate>200803</caldate></sngdate></mdattim></timeinfo><srccurr>publication date</srccurr></srctime><srccitea>CIA Factbook</srccitea><srccontr>Attribute and geospatial data</srccontr></srcinfo><srcinfo><typesrc>paper</typesrc><srccitea>NCGIA</srccitea><srccite><citeinfo><origin>National Center for Geographic Information and Analysis</origin><pubdate>199504</pubdate><title>World Demography Project</title><pubinfo><pubplace>Santa Barbara, California, USA</pubplace><publish>National Center for Geographic Information and Analysis at University of California, Santa Barbara</publish></pubinfo></citeinfo></srccite><srctime><timeinfo><sngdate><caldate>1994</caldate></sngdate></timeinfo><srccurr>ground condition</srccurr></srctime><srccontr>Attribute data</srccontr></srcinfo><srcinfo><srccite><citeinfo><title>COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS</title><origin>Executive Secretary for Foreign Names - U.S. Board on Geographic Names</origin><pubdate>20000225</pubdate><edition>4</edition><geoform>tabular digital data</geoform><serinfo><sername>FIPS 10-4</sername></serinfo><pubinfo><pubplace>Bethesda, Maryland, USA</pubplace><publish>National Imagery and Mapping Agency</publish></pubinfo></citeinfo></srccite><srccitea>ESFN FIPS 10-4 20000225</srccitea><srccontr>Attribute data</srccontr><srctime><timeinfo><sngdate><caldate>20000225</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime></srcinfo><srcinfo><srccontr>Attribute data</srccontr><srccitea>ESFN FIPS 10-4 20010128</srccitea><srccite><citeinfo><title>COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS</title><origin>Executive Secretary for Foreign Names - U.S. Board on Geographic Names</origin><pubdate>20010128</pubdate><edition>6</edition><geoform>tabular digital data</geoform><serinfo><sername>FIPS 10-4</sername></serinfo><pubinfo><pubplace>Bethesda, Maryland, USA</pubplace><publish>National Imagery and Mapping Agency</publish></pubinfo></citeinfo></srccite><srctime><timeinfo><sngdate><caldate>20010128</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime></srcinfo><srcinfo><srccite><citeinfo><origin>International Border Treaty between the Republic of Yemen and the Kingdom of Saudi Arabia </origin><pubdate>20000612</pubdate><title>THE TREATY OF JEDDAH, 2000</title><geoform>document</geoform><onlink>http://www.al-bab.com/yemen/pol/int5.htm</onlink><pubinfo><pubplace>online</pubplace><publish>Yemen Gateway - "BAB AL-YEMEN"</publish></pubinfo></citeinfo></srccite><typesrc>online</typesrc><srccontr>Attribute and geospatial data</srccontr><srctime><timeinfo><sngdate><caldate>20000612</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime><srccitea>TREATY OF JEDDAH, 2000</srccitea></srcinfo><srcinfo><typesrc>online</typesrc><srccitea>http://europa.eu.int</srccitea><srccontr>Attribute data</srccontr><srccite><citeinfo><title>Euro Essentials</title><onlink>http://europa.eu.int/comm/economy_finance/euro/participating_member_states_map_en.htm</onlink><origin>Europa</origin><geoform>document</geoform><pubinfo><pubplace>online</pubplace><publish>Europa</publish></pubinfo><othercit>Europa is the portal site of the European Union (http://europa.eu.int/). It provides up-to-date coverage of European Union affairs and essential information on European integration.</othercit></citeinfo></srccite><srctime><timeinfo><sngdate><caldate>1995-2002</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime></srcinfo><srcinfo><srccite><citeinfo><onlink>http://www.iso.ch/iso/en/ISOOnline.frontpage</onlink><origin>International Organization for Standardization</origin><title>&lt;front page&gt;</title><geoform>document</geoform><pubinfo><pubplace>Geneva, Switzerland</pubplace><publish>International Organization for Standardization</publish></pubinfo><pubdate>19991001, 20020201, 20020520, 20021115, 2004, 20060926</pubdate><othercit>Various Newsletters on ISO 3166-1 have been used over the years.</othercit><onlink>http://www.iso.org/iso/en/prods-services/iso3166ma/03updates-on-iso-3166/index.html</onlink></citeinfo></srccite><typesrc>online</typesrc><srccitea>http://www.iso.org</srccitea><srccontr>Attribute data</srccontr><srctime><timeinfo><mdattim><sngdate><caldate>19991001</caldate></sngdate><sngdate><caldate>20020201</caldate></sngdate><sngdate><caldate>20020520</caldate></sngdate><sngdate><caldate>20021115</caldate></sngdate><sngdate><caldate>2004</caldate></sngdate><sngdate><caldate>20060926</caldate></sngdate></mdattim></timeinfo><srccurr>publication date</srccurr></srctime></srcinfo><srcinfo><srccite><citeinfo><origin>BBC News</origin><pubdate>20020314</pubdate><title>Yugoslav partners sign historic deal</title><geoform>document</geoform><serinfo><sername>BBC News Online</sername><issue>March 14, 2002</issue></serinfo><pubinfo><pubplace>online</pubplace><publish>BBC News</publish></pubinfo><onlink>http://news.bbc.co.uk/1/hi/world/europe/1872070.stm</onlink></citeinfo></srccite><typesrc>online</typesrc><srctime><timeinfo><sngdate><caldate>20020314</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime><srccitea>http://news.bbc.co.uk</srccitea><srccontr>Attribute data</srccontr></srcinfo><procstep><srcused>http://europa.eu.int</srcused><srcused>http://www.iso.org</srcused><procdesc>The following steps were performed by ESRI: Updated fields to reflect change from Yugoslavia to Serbia and Montenegro. Updated fields for East Timor, Romania, and Gaza Strip. Updated currency information for the European Euro. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC.</procdesc><procsv>ArcView GIS 3, ArcGIS 8, ArcSDE®</procsv><srcused>http://news.bbc.co.uk</srcused><procdate>20020920</procdate></procstep><procstep><procdesc>The following steps were performed by ESRI: Updated attribute values for East Timor, Serbia &amp; Montenegro, and Taiwan. Recreated country regions, absorbing the province of Taiwan into the country of China. Removed the Paracel and Spratly island groups.</procdesc><procsv>ArcView® GIS 3, ArcGIS® 9</procsv><srcused>http://www.iso.org</srcused><procdate>20040307</procdate><srcused>GMI</srcused><srcused>CIA Factbook</srcused></procstep><srcinfo><srccite><citeinfo><origin>Global Mapping International</origin><title>Missions Database</title><pubinfo><pubplace>Colorado Springs, Colorado, USA</pubplace><publish>Global Mapping International</publish></pubinfo><onlink>http://www.gmi.org</onlink></citeinfo></srccite><typesrc>CD–ROM</typesrc><srctime><timeinfo><sngdate><caldate>2000</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime><srccitea>GMI</srccitea><srccontr>Attribute data</srccontr></srcinfo><srcinfo><typesrc>online</typesrc><srccitea>http://www.un.org</srccitea><srccontr>Attribute data</srccontr><srccite><citeinfo><origin>United Nations</origin><pubdate>200405, 20061003</pubdate><title>United Nations Cartographic Section Technical Paper: List of Territories; United Nations Member States: List of Member States</title><onlink>http://www.un.org/Depts/Cartographic/english/geoname.pdf#search='United%20Nations%20Cartographic%20Section%20Technical%20Paper'</onlink><pubinfo><pubplace>New York, New York, USA</pubplace><publish>United Nations</publish></pubinfo><onlink>http://www.un.org/members/list.shtml</onlink></citeinfo></srccite><srctime><timeinfo><mdattim><sngdate><caldate>200405</caldate></sngdate><sngdate><caldate>20061003</caldate></sngdate></mdattim></timeinfo><srccurr>publication date</srccurr></srctime></srcinfo><procstep><procdesc>The following steps were performed by ESRI: Added attributes ISO_NUM, ISOSHRTNAM, UNSHRTNAM, LOCSHRTNAM, LOCLNGNAM, and STATUS. Removed attributes SOVEREIGN, CURR_TYPE, CURR_CODE, and LANDLOCKED. Updated attribute values for LONG_NAME. Reduced the attribute width for CNTRY_NAME.</procdesc><procsv>ArcView® GIS 3, ArcGIS® 9</procsv><procdate>20050222</procdate><srcused>CIA Factbook</srcused><srcused>http://www.iso.org</srcused><srcused>http://www.un.org</srcused></procstep><procstep><procdesc>The following steps were performed by ESRI: Renamed the attribute POP_CNTRY to POP2005, added the values from the World Factbook, and redefined the field width.  Converted the data set to SDC.  Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc><procsv>ArcView® GIS 3, ArcGIS® 9, ArcSDE®</procsv><procdate>20060330</procdate><srcused>CIA Factbook</srcused></procstep><srcinfo><srccite><citeinfo><origin>ESRI</origin><pubdate>20061001</pubdate><title>World Administrative Units</title><edition>2006</edition><geoform>vector digital data</geoform><serinfo><sername>ESRI® Data &amp; Maps</sername><issue>2006 World, Europe, United States, Canada, and Mexico</issue></serinfo><pubinfo><pubplace>Redlands, California, USA</pubplace><publish>ESRI</publish></pubinfo><othercit>Provides the boundary between Montenegro and Serbia.</othercit><onlink>http://www.esri.com/</onlink></citeinfo></srccite><srcscale>15000000</srcscale><typesrc>DVD–ROM</typesrc><srctime><timeinfo><sngdate><caldate>20061001</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime><srccitea>ESRI Data &amp; Maps 2006</srccitea><srccontr>Geospatial data</srccontr></srcinfo><procstep><srcused>ESRI Data &amp; Maps 2006</srcused><srcused>CIA Factbook</srcused><srcused>http://www.iso.org</srcused><srcused>http://www.un.org</srcused><procdesc>The following steps were performed by ESRI: Split the single country of Serbia and Montenegro into separate countries of Montenegro and Serbia using the boundary from 2006 World Administrative Units. Coded their attribute values from the CIA The World Factbook, the International Organization for Standardization, and the United Nations websites. Updated the names for Afghanistan, Isle of Man, Myanmar, Rwanda, and Timor-Leste. Replaced POP2005 with POP2006 and coded it with values from the CIA The World Factbook website and gave the records that did not have population data values of -99999. Removed an area in the Netherlands where land was in the process of being reclaimed from the sea but was never completed. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc><procsv>ArcView® GIS 3, ArcGIS® 9, ArcSDE®</procsv><procdate>20070724</procdate></procstep><srcinfo><srccite><citeinfo><origin>U.S. Census Bureau, Population Division/International Programs Center</origin><pubinfo><publish>U.S. Census Bureau, Population Division/International Programs Center</publish><pubplace>Washington, DC, USA</pubplace></pubinfo><title>International Data Base (IDB)</title><geoform>tabular digital data</geoform><othercit>Provided the POP2007 attribute data.</othercit><onlink>http://www.census.gov/ipc/www/</onlink><pubdate>20060824</pubdate></citeinfo></srccite><typesrc>online</typesrc><srccitea>U.S. Census IPC</srccitea><srccontr>Attribute data</srccontr><srctime><timeinfo><sngdate><caldate>20060824</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime></srcinfo><procstep><srcused>CIA Factbook</srcused><procdesc>The following steps were performed by ESRI: Replaced POP2006 with POP2007 and coded it with values from the U.S. Census Bureau, Population Division/International Programs Center web site. Added the attribute LAND_SQKM and coded it with values from the CIA The World Factbook country web pages. Converted the data set to SDC. Created projection file (.prj), and spatial indices.</procdesc><procsv>ArcView® GIS 3, ArcGIS® 9, ArcSDE®</procsv><srcused>U.S. Census IPC</srcused><procdate>20080326</procdate></procstep></lineage><posacc><horizpa><horizpar>The geospatial part of this data set was originally extracted from the ArcWorld Supplement database and then generalized (tolerance unknown).  The positional accuracy is unknown.</horizpar></horizpa></posacc><logic>The shapefile is converted to SDC (Smart Data Compression) format using either tools in ArcGIS or ESRI SDC Data Development Kit Professional 2 (DDKP2).  The SDC data set is then imported into a file geodatabase to verify and validate the geometry.  The data set is created directly from a topologically correct ArcInfo® coverage.</logic><complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete></dataqual><Binary><Thumbnail><Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KK
+KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiucsPiBo
+d3c3NtJqNta3MFzLbeTNKEZ2Rip2g43fdPTOKTaW4HR0VzOk+PrDxBBJcaVBcajbIdvnRGNfmxkq
+Vd1ZT04ZR1B6GrcnimOCdY5rC9j3IzhgiycAgHhGJ7jt3rjeNwyk4OorrzRXLLext0VwHifxXrmq
+aZFF4f07ULCS4Yqb6eGNXhULkMEfdjng7lzgHCsSK8TM3juG3vE1fWtfE1w72hiaC5fzVKbtsQSD
+yy3yAhxtIy3PLJSeOw17Kafpr+Qcsux9RXupWmmxeZd3UNrGATvnkCDA68k1nR+NvDssqxJr2lvI
++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
+H//Z</Data></Thumbnail></Binary><mdDateSt Sync="TRUE">20120304</mdDateSt><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420</envirDesc><dataLang><languageCode Sync="TRUE" value="en"/></dataLang><idCitation><resTitle>World Countries</resTitle><presForm><PresFormCd Sync="TRUE" value="005"/></presForm><resEd>10</resEd><resEdDate>20100630</resEdDate><resRefDate><refDate>20020212</refDate><refDateType><DateTypCd value="001"/></refDateType></resRefDate><citRespParty><rpIndName>ArcGIS Content Team</rpIndName><rpOrgName>ESRI</rpOrgName><rpPosName>ArcGIS Content Team</rpPosName><role><RoleCd value="007"/></role><rpCntInfo><cntAddress><delPoint>380 New York Street</delPoint><city>Redlands</city><adminArea>California</adminArea><postCode>92373-8100</postCode><eMailAdd>info@esri.com</eMailAdd><country>us</country></cntAddress><cntPhone><voiceNum>909-793-2853</voiceNum><faxNum>909-793-5953</faxNum></cntPhone></rpCntInfo></citRespParty><resRefDate><refDate>20100630</refDate><refDateType><DateTypCd value="002"/></refDateType></resRefDate></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"/></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-180</westBL><eastBL Sync="TRUE">180.000000</eastBL><northBL Sync="TRUE">83.6236</northBL><southBL Sync="TRUE">-90</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle><tempEle><TempExtent><exTemp><TM_GeometricPrimitive><TM_Period><begin>199312</begin><end>200803</end></TM_Period></TM_GeometricPrimitive></exTemp></TempExtent></tempEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-180</westBL><eastBL Sync="TRUE">180</eastBL><northBL Sync="TRUE">83.6236</northBL><southBL Sync="TRUE">-90</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox><idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;World Countries represents the boundaries for the countries of the world as they existed in January 2008.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs><resConst><Consts><useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This data is intended for training exercises found in the book Getting to Know ArcGIS for Desktop. It is for educational purposes only. The data should not be used for analysis, surveying, or navigation. Esri Press and its data contributors are not liable for misuse of the data.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit></Consts><LegConsts><accessConsts><RestrictCd value="005"/></accessConsts><othConsts>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI® software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, “Geodata” shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s). Geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</othConsts><useConsts><RestrictCd value="008"/></useConsts></LegConsts></resConst><dataScale><equScale><rfDenom>15000000</rfDenom></equScale></dataScale><descKeys KeyTypCd="005"><keyTyp><KeyTypCd value="005"/></keyTyp><keyword>polygon, countries, international boundaries, coastlines, area, international codes, status, population, boundaries, society</keyword></descKeys><descKeys KeyTypCd="002"><keyTyp><KeyTypCd value="002"/></keyTyp><keyword>World</keyword></descKeys><descKeys KeyTypCd="004"><keyTyp><KeyTypCd value="004"/></keyTyp><keyword>1996, 1998, 1993/1994, 2000, 1994, 2000, 2001, 2000, 1995-2002, 1999, 2002, 2002, 2002, 2002, 2003, 2000, 2004, 2005, 2004, 2004, 2006, 2006, 2007, 2006, 2006, 2008, 2006</keyword></descKeys><resMaint><maintFreq><MaintFreqCd value="008"/></maintFreq></resMaint><idPoC Sync="TRUE"><rpIndName Sync="TRUE">ArcGIS Content Team</rpIndName><rpOrgName Sync="TRUE">ESRI</rpOrgName><rpPosName Sync="TRUE">ArcGIS Content Team</rpPosName><rpCntInfo><cntPhone><voiceNum Sync="TRUE">909-793-2853</voiceNum><faxNum Sync="TRUE">909-793-5953</faxNum></cntPhone><cntAddress><delPoint Sync="TRUE">380 New York Street</delPoint><city Sync="TRUE">Redlands</city><adminArea Sync="TRUE">California</adminArea><postCode Sync="TRUE">92373-8100</postCode><country Sync="TRUE">us</country><eMailAdd Sync="TRUE">info@esri.com</eMailAdd></cntAddress></rpCntInfo><role><RoleCd Sync="TRUE" value="007"/></role></idPoC><idPurp>This data is intended for use with Getting to Know ArcGIS Desktop. It may have been modified for training purposes and should not be used for analysis outside of this context.</idPurp><idCredit>ArcWorld Supplement. ESRI Data &amp; Maps , 2010.</idCredit><tpCat><TopicCatCd value="003"/></tpCat><tpCat><TopicCatCd value="016"/></tpCat></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"/></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"/></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"/></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc>003</orDesc></onLineSrc><transSize Sync="TRUE">1.202</transSize><offLineMed><medName><MedNameCd value="003"/></medName></offLineMed></distorTran><distorFormat><formatName Sync="TRUE">SDC Feature Database</formatName></distorFormat><distorCont><rpOrgName>ESRI; ESRI Offices</rpOrgName><rpCntInfo><cntAddress><delPoint>380 New York Street</delPoint><city>Redlands</city><adminArea>California</adminArea><postCode>92373-8100</postCode><country>us</country></cntAddress><cntPhone><voiceNum>800-447-9778</voiceNum></cntPhone></rpCntInfo><role><RoleCd value="005"/></role></distorCont><distorOrdPrc><ordInstr>ESRI Data &amp; Maps is available only as part of ESRI® software.
+
+In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI Office.  This information can be found at http://www.esri.com/company/locations.html.</ordInstr><resFees>Software purchase price. ESRI Data &amp; Maps is available only as part of ESRI® software. To use this data requires software that supports SDC files.</resFees></distorOrdPrc></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_WGS_1984</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"/></topLvl><geometObjs Name="dtl_cntry"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"/></geoObjTyp><geoObjCnt Sync="TRUE">249</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdContact><rpIndName>ArcGIS Content Team</rpIndName><rpOrgName>ESRI</rpOrgName><rpPosName>ArcGIS Content Team</rpPosName><rpCntInfo><cntAddress><delPoint>380 New York Street</delPoint><city>Redlands</city><adminArea>California</adminArea><postCode>92373-8100</postCode><eMailAdd>info@esri.com</eMailAdd><country>us</country></cntAddress><cntPhone><voiceNum>909-793-2853</voiceNum><faxNum>909-793-5953</faxNum></cntPhone></rpCntInfo><role><RoleCd value="010"/></role></mdContact><dqInfo><dataLineage><statement>ArcWorld Supplement (source 1 of 14) 
+
+ESRI, 1996, ArcWorld™ Supplement: ESRI, Redlands, California, USA. 
+
+Type of source media: CD–ROM
+Source scale denominator: 3000000
+Source contribution:
+Attribute and geospatial data
+
+
+Geographic and Global Issues (source 2 of 14) 
+
+United States Department of State, Bureau of Intelligence and Research, Winter 1993/1994, Geographic and Global Issues Quarterly: Geographic and Global Issues Quarterly Volume 3, Number 4, United States Department of State, Bureau of Intelligence and Research, Washington, DC, USA. 
+
+Type of source media: paper
+Source contribution:
+Attribute data
+
+
+CIA Factbook (source 3 of 14) 
+
+United States Central Intelligence Agency, 20000101, 2003, 20041209, 20050210, 200603, 200703, 200803, The World Factbook 2000; 2003; 2004; 2005; 2007; 2008: The World Factbook 2000; 2003; 2004; 2005; 2007; 2008, United States Central Intelligence Agency, Washington, DC, USA. 
+
+Online links: 
+http://www.cia.gov/cia/publications/factbook/index.html 
+http://www.cia.gov/cia/publications/factbook/appendix/appendix-d.html 
+http://www.odci.gov/cia/publications/factbook/fields/2142.html 
+
+Other citation details: 
+The Factbook has been an annual publication, but selected data and maps are updated periodically online.
+
+Type of source media: online
+Source contribution:
+Attribute and geospatial data
+
+
+NCGIA (source 4 of 14) 
+
+National Center for Geographic Information and Analysis, 199504, World Demography Project: National Center for Geographic Information and Analysis at University of California, Santa Barbara, Santa Barbara, California, USA. 
+
+Type of source media: paper
+Source contribution:
+Attribute data
+
+
+ESFN FIPS 10-4 20000225 (source 5 of 14) 
+
+Executive Secretary for Foreign Names - U.S. Board on Geographic Names, 20000225, COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS: FIPS 10-4 , National Imagery and Mapping Agency, Bethesda, Maryland, USA. 
+
+Source contribution:
+Attribute data
+
+
+ESFN FIPS 10-4 20010128 (source 6 of 14) 
+
+Executive Secretary for Foreign Names - U.S. Board on Geographic Names, 20010128, COUNTRIES, DEPENDENCIES, AREAS OF SPECIAL SOVEREIGNTY, AND THEIR PRINCIPAL ADMINISTRATIVE DIVISIONS: FIPS 10-4 , National Imagery and Mapping Agency, Bethesda, Maryland, USA. 
+
+Source contribution:
+Attribute data
+
+
+TREATY OF JEDDAH, 2000 (source 7 of 14) 
+
+International Border Treaty between the Republic of Yemen and the Kingdom of Saudi Arabia, 20000612, THE TREATY OF JEDDAH, 2000: Yemen Gateway - "BAB AL-YEMEN", online. 
+
+Online links: 
+http://www.al-bab.com/yemen/pol/int5.htm 
+
+Type of source media: online
+Source contribution:
+Attribute and geospatial data
+
+
+http://europa.eu.int (source 8 of 14) 
+
+Europa, Euro Essentials: Europa, online. 
+
+Online links: 
+http://europa.eu.int/comm/economy_finance/euro/participating_member_states_map_en.htm 
+
+Other citation details: 
+Europa is the portal site of the European Union (http://europa.eu.int/). It provides up-to-date coverage of European Union affairs and essential information on European integration.
+
+Type of source media: online
+Source contribution:
+Attribute data
+
+
+http://www.iso.org (source 9 of 14) 
+
+International Organization for Standardization, 19991001, 20020201, 20020520, 20021115, 2004, 20060926, &lt;front page&gt;: International Organization for Standardization, Geneva, Switzerland. 
+
+Online links: 
+http://www.iso.ch/iso/en/ISOOnline.frontpage 
+http://www.iso.org/iso/en/prods-services/iso3166ma/03updates-on-iso-3166/index.html 
+
+Other citation details: 
+Various Newsletters on ISO 3166-1 have been used over the years.
+
+Type of source media: online
+Source contribution:
+Attribute data
+
+
+http://news.bbc.co.uk (source 10 of 14) 
+
+BBC News, 20020314, Yugoslav partners sign historic deal: BBC News Online March 14, 2002, BBC News, online. 
+
+Online links: 
+http://news.bbc.co.uk/1/hi/world/europe/1872070.stm 
+
+Type of source media: online
+Source contribution:
+Attribute data
+
+
+GMI (source 11 of 14) 
+
+Global Mapping International, Missions Database: Global Mapping International, Colorado Springs, Colorado, USA. 
+
+Online links: 
+http://www.gmi.org 
+
+Type of source media: CD–ROM
+Source contribution:
+Attribute data
+
+
+http://www.un.org (source 12 of 14) 
+
+United Nations, 200405, 20061003, United Nations Cartographic Section Technical Paper: List of Territories; United Nations Member States: List of Member States: United Nations, New York, New York, USA. 
+
+Online links: 
+http://www.un.org/Depts/Cartographic/english/geoname.pdf#search='United%20Nations%20Cartographic%20Section%20Technical%20Paper' 
+http://www.un.org/members/list.shtml 
+
+Type of source media: online
+Source contribution:
+Attribute data
+
+
+ESRI Data &amp; Maps 2006 (source 13 of 14) 
+
+ESRI, 20061001, World Administrative Units: ESRI® Data &amp; Maps 2006 World, Europe, United States, Canada, and Mexico, ESRI, Redlands, California, USA. 
+
+Online links: 
+http://www.esri.com/ 
+
+Other citation details: 
+Provides the boundary between Montenegro and Serbia.
+
+Type of source media: DVD–ROM
+Source scale denominator: 15000000
+Source contribution:
+Geospatial data
+
+
+U.S. Census IPC (source 14 of 14) 
+
+U.S. Census Bureau, Population Division/International Programs Center, 20060824, International Data Base (IDB): U.S. Census Bureau, Population Division/International Programs Center, Washington, DC, USA. 
+
+Online links: 
+http://www.census.gov/ipc/www/ 
+
+Other citation details: 
+Provided the POP2007 attribute data.
+
+Type of source media: online
+Source contribution:
+Attribute data
+
+
+Date: 20020212 (change 1 of 7) 
+The following steps were performed by ESRI for Data &amp; Maps 2002: Updated Saudi Arabia - Yemen border. Updated attributes for East Timor, Yugoslavia, Saudi Arabia, and Yemen.  Recalculated attributes based on area.  Created ArcGIS® layer file (.lyr) and ArcView GIS legend file (.avl).  Copied projection file (.prj) and created spatial indices.
+
+The following steps were performed by ESRI: Extracted the features from ESRI Data &amp; Maps 1999 data set–cntry98.shp.  Updated political boundaries and attributes for 2000 for Macau, Hong Kong, and East Timor. Extended political boundaries into the Caspian Sea and removed the shoreline.  Created ArcGIS® layer file (.lyr).  Created ArcView GIS legend file (.avl).  Created projection file (.prj).  Created spatial indices.
+
+Data sources used in this process: 
+ArcWorld Supplement 
+Geographic and Global Issues 
+CIA Factbook 
+NCGIA 
+ESFN FIPS 10-4 20000225 
+ESFN FIPS 10-4 20010128 
+TREATY OF JEDDAH, 2000 
+
+
+Date: 20020920 (change 2 of 7) 
+The following steps were performed by ESRI: Updated fields to reflect change from Yugoslavia to Serbia and Montenegro. Updated fields for East Timor, Romania, and Gaza Strip. Updated currency information for the European Euro. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC.
+
+Data sources used in this process: 
+http://europa.eu.int 
+http://www.iso.org 
+http://news.bbc.co.uk 
+
+
+Date: 20040307 (change 3 of 7) 
+The following steps were performed by ESRI: Updated attribute values for East Timor, Serbia &amp; Montenegro, and Taiwan. Recreated country regions, absorbing the province of Taiwan into the country of China. Removed the Paracel and Spratly island groups.
+
+Data sources used in this process: 
+http://www.iso.org 
+GMI 
+CIA Factbook 
+
+
+Date: 20050222 (change 4 of 7) 
+The following steps were performed by ESRI: Added attributes ISO_NUM, ISOSHRTNAM, UNSHRTNAM, LOCSHRTNAM, LOCLNGNAM, and STATUS. Removed attributes SOVEREIGN, CURR_TYPE, CURR_CODE, and LANDLOCKED. Updated attribute values for LONG_NAME. Reduced the attribute width for CNTRY_NAME.
+
+Data sources used in this process: 
+CIA Factbook 
+http://www.iso.org 
+http://www.un.org 
+
+
+Date: 20060330 (change 5 of 7) 
+The following steps were performed by ESRI: Renamed the attribute POP_CNTRY to POP2005, added the values from the World Factbook, and redefined the field width.  Converted the data set to SDC.  Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.
+
+Data sources used in this process: 
+CIA Factbook 
+
+
+Date: 20070724 (change 6 of 7) 
+The following steps were performed by ESRI: Split the single country of Serbia and Montenegro into separate countries of Montenegro and Serbia using the boundary from 2006 World Administrative Units. Coded their attribute values from the CIA The World Factbook, the International Organization for Standardization, and the United Nations websites. Updated the names for Afghanistan, Isle of Man, Myanmar, Rwanda, and Timor-Leste. Replaced POP2005 with POP2006 and coded it with values from the CIA The World Factbook website and gave the records that did not have population data values of -99999. Removed an area in the Netherlands where land was in the process of being reclaimed from the sea but was never completed. Converted the data set to SDC. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices.
+
+Data sources used in this process: 
+ESRI Data &amp; Maps 2006 
+CIA Factbook 
+http://www.iso.org 
+http://www.un.org 
+
+
+Date: 20080326 (change 7 of 7) 
+The following steps were performed by ESRI: Replaced POP2006 with POP2007 and coded it with values from the U.S. Census Bureau, Population Division/International Programs Center web site. Added the attribute LAND_SQKM and coded it with values from the CIA The World Factbook country web pages. Converted the data set to SDC. Created projection file (.prj), and spatial indices.
+
+Data sources used in this process: 
+CIA Factbook 
+U.S. Census IPC</statement></dataLineage><dqScope><scpLvl><ScopeCd value="005"/></scpLvl></dqScope></dqInfo><mdFileID Sync="TRUE">{40E4EF4D-6079-4463-840F-4EFDE21DED6D}</mdFileID></metadata>
