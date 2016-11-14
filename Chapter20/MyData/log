@@ -1,0 +1,3 @@
+201309261557   0     1     0Amy Collins C:\Users\Amy Collins\Desktop\GTKArcGIS\Chapter20\MyData\density = POINTDENSITY(Clients, NONE, 100.0, SIMPLE, 5280.0, Circle, 200
+201309261613   0     1     0Amy Collins C:\Users\Amy Collins\Desktop\GTKArcGIS\Chapter20\MyData\ext_density = SELECTMASK(C:\Users\Amy Collins\Desktop\GTKArcGIS\Chapter20\MyData\density, C:\Users\Amy Collins\Desktop\GTKArcGIS\Chapter20\MyData\distance)
+201309261613   0     0     0Amy Collins C:\Users\Amy Collins\Desktop\GTKArcGIS\Chapter20\MyData\ext_children = SELECTMASK(C:\Users\Amy Collins\Desktop\GTKArcGIS\Chapter20\MyData\children, C:\Users\Amy Collins\Desktop\GTKArcGIS\Chapter20\MyData\distance)
