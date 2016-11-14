@@ -1,5 +1,5 @@
 # gtkArcGIS
-Resource files for Getting to Know ArcGIS 4th Ed. by esriPress. These are starter files for completing the in book exercises.
+Resource files for Getting to Know ArcGIS Fourth Edition written by Michael Law and Amy Collins, published by esriPress. These are starter files for completing the in book exercises.
 
 ## Purpose
 At one time these files were included on CD with the book but are now only provided for download. Unfortunately, the files provided by esriPress online are incorrect -- they seem to be at least partially from the 3rd edition. http://esripress.esri.com/bookResources/index.cfm?event=catalog.book&id=16
